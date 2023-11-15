@@ -20,8 +20,8 @@
 
 **研究方向**
 
-- 领域泛化
+- **Domain Generalization**
 
-- 目标检测
+- **Object Detection**
 
-- 大模型微调
+- **Prompt-Tuning**
