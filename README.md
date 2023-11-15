@@ -10,4 +10,3 @@
 
 
 - 📫 我的邮箱: [xuxiusheng@seu.edu.cn](https://mailh.qiye.163.com/);
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuxiusheng&show_icons=true&theme=radical)
