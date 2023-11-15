@@ -9,7 +9,7 @@
   <img align="right" alt="GIF" src="./code.gif" width="430" height="80%" />
 
 
-- 📫 我的邮箱: [xuxiusheng@seu.edu.cn](https://mailh.qiye.163.com/);
+- 📫 我的邮箱: [xuxiusheng@seu.edu.cn](https://mailh.qiye.163.com/)
 
 **技术栈 与 开发工具:**
 
